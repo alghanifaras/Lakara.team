@@ -28,7 +28,7 @@ export default function LakaraLogo({
     return (
       <div className={`inline-flex items-center ${className}`}>
         <Image
-          src="/lakara.png"
+          src="/favicon.svg"
           alt="LAKARA"
           width={w}
           height={h}
@@ -42,7 +42,7 @@ export default function LakaraLogo({
   return (
     <div className={`inline-flex items-center gap-2.5 ${className}`}>
       <Image
-        src="/lakara.png"
+        src="/favicon.svg"
         alt="LAKARA"
         width={w}
         height={h}
