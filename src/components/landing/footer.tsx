@@ -36,7 +36,7 @@ export default function Footer() {
             Cerita
           </a>
           <a
-            href="https://instagram.com/lakara.id"
+            href="https://instagram.com/lakara.team"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#4057A5] transition-colors"
@@ -54,7 +54,7 @@ export default function Footer() {
 
       <div className="max-w-7xl mx-auto mt-16 pt-8 border-t border-[#E8E8E2]/60 flex flex-col sm:flex-row justify-between text-[11px] text-[#999999] font-mono">
         <span>© 2026 LAKARA. Komunitas Sosial Kemanusiaan.</span>
-        <span className="mt-2 sm:mt-0">Jakarta · Indonesia</span>
+        <span className="mt-2 sm:mt-0">Lampung · Indonesia</span>
       </div>
     </footer>
   );

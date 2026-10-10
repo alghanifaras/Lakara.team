@@ -49,7 +49,7 @@ export default function ContributionModal() {
     const text = encodeURIComponent(
       `Halo Tim LAKARA,\n\nSaya ingin bergabung & berkontribusi dalam program LAKARA.\n\n• Jenis: ${typeLabel}\n• Nama: ${name || "-"}\n• Kontak: ${contact || "-"}\n• Domisili: ${city || "-"}\n• Catatan: ${note || "Ingin berdiskusi lebih lanjut."}\n\nTerima kasih atas ruang kebaikan ini.`
     );
-    window.open(`https://wa.me/6281234567890?text=${text}`, "_blank");
+    window.open(`https://wa.me/6285706320368?text=${text}`, "_blank");
   };
 
   const resetAndClose = () => {
