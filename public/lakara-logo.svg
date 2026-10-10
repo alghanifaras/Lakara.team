@@ -1,0 +1,13 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lakaraBlueGrad" x1="4" y1="4" x2="36" y2="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stopColor="#4A63B4" />
+      <stop offset="100%" stopColor="#354A92" />
+    </linearGradient>
+  </defs>
+  <rect width="40" height="40" rx="11" fill="url(#lakaraBlueGrad)" />
+  <path d="M10 27.5C14.5 27.5 17 23 20 17C23.5 10 27.5 10.5 30 11C27.5 17 23 26 15 28C13 28.5 11.5 28 10 27.5Z" fill="white" fill-opacity="0.22" />
+  <path d="M8.5 24C13 24 16.5 19 20.5 14C24 9.5 27.5 11 29.5 12.5C26 18.5 20.5 25.5 12 26C10.5 26 9.2 25 8.5 24Z" fill="white" fill-opacity="0.4" />
+  <path d="M9 22C14.5 22 17.5 16 21.5 11.5C24.5 8 28.5 8.8 31 10.5C26.5 17 21 24.5 11.5 24.5C10.2 24.5 9.4 23 9 22Z" fill="white" />
+  <circle cx="28.5" cy="11.5" r="2.2" fill="white" />
+</svg>
